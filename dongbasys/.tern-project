@@ -1,0 +1,52 @@
+{
+  "ecmaVersion": 5,
+  "plugins": {
+    "outline": {
+      
+    },
+    "lint": {
+      
+    },
+    "chrome-apps": {
+      
+    },
+    "chrome-extension": {
+      
+    },
+    "requirejs": {
+      
+    },
+    "gas": {
+      
+    },
+    "node": {
+      
+    },
+    "yui3": {
+      
+    },
+    "browser-extension": {
+      
+    },
+    "extjs4.2.1": {
+      
+    },
+    "node-mongoose": {
+      
+    },
+    "node-mongodb-native": {
+      
+    },
+    "node-extension": {
+      
+    },
+    "bootstrap": {
+      
+    }
+  },
+  "libs": [
+    "ecma5",
+    "browser",
+    "jquery"
+  ]
+}
